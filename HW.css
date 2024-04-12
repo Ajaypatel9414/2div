@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.father{
+    color: red;
+    border: 2px solid blue;
+    margin: 10px;
+    text-align: center;
+
+}
+
+.AJAY{
+    color: red;
+    border: 2px solid orangered;
+    margin: 10px;
+    text-align: center;
+}
+.father p{
+    color: black;
+}
+.AJAY p{
+    color: black;
+}
+.FIRST{
+    border: 5px solid darkred;
+    text-align: center;
+}
+
